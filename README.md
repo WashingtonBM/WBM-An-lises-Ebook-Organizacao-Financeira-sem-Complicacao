@@ -1,6 +1,6 @@
 # WBM — Organização Financeira sem Complicação
 
-Ebook interativo de educação financeira pessoal em página única, com planilhas editáveis, calculadoras, exercícios, gerador de plano e o consultor virtual Dáblio.
+Ebook interativo de educação financeira pessoal em página única, com planilhas editáveis, calculadoras, exercícios, gerador de plano e o consultor virtual Dáblio. [https://wbm-c79a.p.rogueon.ai/]
 
 ## Conteúdo do ebook
 
@@ -25,7 +25,7 @@ public/rogue-images/c6b1fb11-5fa9-4534-a752-bf5901e1ce7f.webp
 1. Crie o repositório ou use um existente e envie index.html, README.md e a pasta public/.
 2. Em Settings, abra Pages e selecione Deploy from a branch.
 3. Escolha a branch main e a pasta raiz (/).
-4. O endereço público fica em https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/.
+4. O endereço público fica em https:[(https://github.com/WashingtonBM/WBM-An-lises-Ebook-Organizacao-Financeira-sem-Complicacao/edit/main/README.md)]
 
 ## Rodar localmente
 
