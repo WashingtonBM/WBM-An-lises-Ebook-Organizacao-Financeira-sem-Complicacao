@@ -9,28 +9,6 @@ Ebook interativo de educação financeira pessoal em página única, com planilh
 - Gerador de plano personalizado com download em arquivo .txt e progresso de leitura com 12 itens no sumário.
 - Dáblio: consultor virtual que responde apenas com base no conteúdo interno do ebook, após uma espera de 10 segundos.
 
-## Estrutura do repositório
-
-```text
-index.html
-README.md
-public/rogue-images/c6b1fb11-5fa9-4534-a752-bf5901e1ce7f.webp
-```
-
-- index.html: a página completa. Todo o CSS e o JavaScript estão embutidos, sem dependências externas, fontes ou bibliotecas.
-- public/rogue-images/: capa do ebook, usada no menu lateral e na capa. Mantenha o mesmo caminho relativo usado no HTML.
-
-## Publicar no GitHub Pages
-
-1. Crie o repositório ou use um existente e envie index.html, README.md e a pasta public/.
-2. Em Settings, abra Pages e selecione Deploy from a branch.
-3. Escolha a branch main e a pasta raiz (/).
-4. O endereço público fica em https:[(https://github.com/WashingtonBM/WBM-An-lises-Ebook-Organizacao-Financeira-sem-Complicacao/edit/main/README.md)]
-
-## Rodar localmente
-
-Abra o arquivo index.html no navegador para ler, preencher as planilhas e gerar o plano. O Dáblio depende do proxy /__api/openrouter do ambiente da Rogue, então fora dele o chat informa que o serviço não está disponível.
-
 ## Dados e privacidade
 
 - Tudo o que o leitor preenche fica no localStorage do navegador, na chave wbm.ofsc.v1: orçamento, dívidas, metas, hábitos e capítulos concluídos.
